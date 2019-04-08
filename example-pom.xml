@@ -1,0 +1,25 @@
+<project>
+  
+    .... 
+ 
+    <distributionManagement>
+        <snapshotRepository>
+            <id>nexus-snapshots</id>
+            <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+        <repository>
+            <id>nexus-releases</id>
+            <url>http://localhost:8081/nexus/content/repositories/releases/</url>
+        </repository>
+    </distributionManagement>   
+    
+    <repositories>
+        <repository>
+            <id>ID</id>
+            <url>http://localhost:8081/nexus/content/repositories/public/</url>
+        </repository>
+    </repositories> 
+    
+    ....
+    
+</project>
