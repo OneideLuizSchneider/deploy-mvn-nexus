@@ -11,7 +11,7 @@
 enjoy :D
 
 
-<img src="https://github.com/OneideLuizSchneider/OneideLuizSchneider/deploy-mvn-nexus/blob/master/nexus-conf-settings.png?raw=true" alt="nexus-conf-settings.png">
+<img src="https://github.com/OneideLuizSchneider/deploy-mvn-nexus/blob/master/nexus-conf-settings.png?raw=true" alt="nexus-conf-settings.png">
 
 <img src="https://github.com/OneideLuizSchneider/deploy-mvn-nexus/blob/master/nexus-conf-pom.png?raw=true" alt="nexus-conf-pom.png">
 
