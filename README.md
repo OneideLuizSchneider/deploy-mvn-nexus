@@ -9,3 +9,6 @@
 
 
 enjoy :D
+
+
+<img src="/OneideLuizSchneider/deploy-mvn-nexus/blob/master/nexus-conf-pom.png?raw=true" alt="nexus-conf-pom.png">
